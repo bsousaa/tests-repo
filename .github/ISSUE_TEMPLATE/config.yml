@@ -3,6 +3,6 @@ contact_links:
   - name: "If you have Docker Desktop on Linux installed"
     about: "Please report any bug report or feature request to the Docker Desktop for Linux team."
     url: "https://github.com/docker/desktop-linux/issues"
-  - name: "Alternatively, refer to The Moby Project
+  - name: "Alternatively, refer to The Moby Project"
     about: "Please report any bug or feature request to the Moby Project."
     url: "https://github.com/moby/moby/issues"
