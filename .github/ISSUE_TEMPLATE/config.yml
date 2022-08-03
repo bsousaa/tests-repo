@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+redirect_links:
+  - name: Create a new issue at Docker Desktop for Linux
+    url: https://github.com/docker/desktop-linux/issues
+    about: Please report any bug report or feature request to the Docker Desktop for Linux team.
+  - name: Create a new issue at The Moby Project
+    url: https://github.com/moby/moby/discussions/new
+    about: Please report any bug report or feature request to the Docker.
