@@ -6,3 +6,6 @@ contact_links:
   - name: "Alternatively, check the upstream Moby Project"
     about: "to report any bug or request a feature."
     url: "https://github.com/moby/moby/issues"
+  - name: "Security and Vulnerabilities"
+    about: "Please report any security issues or vulnerabilities responsibly to the Docker security team. Please do not use the public issue tracker."
+    url: "https://github.com/moby/moby/security/policy"
