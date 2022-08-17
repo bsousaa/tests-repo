@@ -7,5 +7,5 @@ contact_links:
     about: "Please report any security issues or vulnerabilities responsibly to the Docker security team. Please do not use the public issue tracker."
     url: "https://github.com/moby/moby/security/policy"
   - name: "General Support"
-    about: "Get the help you need to build, share, and run your Docker"
+    about: "Get the help you need to build, share, and run your Docke applications"
     url: "https://www.docker.com/support/"
