@@ -7,8 +7,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thank you for taking the time to report a bug!
-        If this is a security issue please report it to the [Docker Security team](mailto:security@docker.com).
+        Thank you for taking the time to report a bug! Do *not* paste logfiles into GitHub issues: upload diagnostics instead, which are
+only visible to Docker engineers.
   - type: textarea
     id: description
     attributes:
