@@ -4,6 +4,10 @@ labels:
   - kind/bug
   - needs-triage
 body:
+  - type: markdown
+    attributes:
+      value: |
+        This repository is for reporting bugs with the Docker Desktop for Mac software, which we respond to on a best-effort basis.
   - type: textarea
     id: description
     attributes:
