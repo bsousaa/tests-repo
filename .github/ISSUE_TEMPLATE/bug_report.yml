@@ -7,7 +7,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        This repository is for reporting bugs with the Docker Desktop for Mac software, which we respond to on a best-effort basis.
+        This repository is for reporting bugs with the Docker Desktop software, which we respond to on a best-effort basis.
   - type: textarea
     id: description
     attributes:
@@ -139,7 +139,7 @@ body:
   - type: textarea
     id: additional
     attributes:
-      label: Diagnose Check
-      description:  Output of `/Applications/Docker.app/Contents/MacOS/com.docker.diagnose check`
+      label: Additional Info
+      description: Additional info you want to provide such as logs, system info, environment, etc.
     validations:
       required: false
