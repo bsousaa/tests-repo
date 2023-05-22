@@ -26,7 +26,6 @@ body:
         - 4.16
         - 4.15
         - 4.14
-        - Other
     validations:
       required: true
   - type: textarea
