@@ -135,12 +135,12 @@ body:
           Live Restore Enabled: true
     validations:
       required: true
-  - type: textarea
+  - type: input
     id: diagnostics
     attributes:
       label: Diagnostics ID
       description: |
-      Generate a diagnostics ID https://docs.docker.com/docker-for-windows/troubleshoot/#diagnose-and-feedback either from inside the app or from the command line.
+      ![Generate a diagnostics ID](https://docs.docker.com/docker-for-windows/troubleshoot/#diagnose-and-feedback) either from inside the app or from the command line.
     validations:
       required: true
   - type: textarea
