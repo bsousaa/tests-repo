@@ -1,7 +1,6 @@
 name: Bug Report
 description: Create a report to help us improve!
 labels:
-  - kind/bug
   - needs-triage
 body:
   - type: markdown
@@ -134,6 +133,13 @@ body:
           Insecure Registries:
             127.0.0.0/8
           Live Restore Enabled: true
+    validations:
+      required: true
+  - type: textarea
+    id: diagnostics
+    attributes:
+      label: Diagnostics ID
+      description: [Generate a diagnostics ID](https://docs.docker.com/docker-for-windows/troubleshoot/#diagnose-and-feedback) either from inside the app or from the command line.
     validations:
       required: true
   - type: textarea
