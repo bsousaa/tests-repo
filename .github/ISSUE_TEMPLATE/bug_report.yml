@@ -4,10 +4,6 @@ labels:
   - kind/bug
   - needs-triage
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Thank you for taking the time to report a bug!
   - type: textarea
     id: description
     attributes:
