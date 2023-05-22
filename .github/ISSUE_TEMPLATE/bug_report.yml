@@ -140,7 +140,7 @@ body:
     attributes:
       label: Diagnostics ID
       description: |
-       [Generate](https://abola.tp) a diagnostics ID https://docs.docker.com/docker-for-windows/troubleshoot/#diagnose-and-feedback either from inside the app or from the command line.
+       [Generate a diagnostics ID](https://docs.docker.com/docker-for-windows/troubleshoot/#diagnose-and-feedback) either from inside the app or from the command line.
     validations:
       required: true
   - type: textarea
