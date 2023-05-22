@@ -4,5 +4,5 @@ contact_links:
     about: "Check our Public Roadmap to request new features on Docker Desktop."
     url: "https://github.com/docker/roadmap/issues"
   - name: "Docker support"
-    about: "Get the help you need to build, share, and run your Docker applications"
+    about: "Get the help you need to build, share, and run your Docker applications."
     url: "https://www.docker.com/support/"
