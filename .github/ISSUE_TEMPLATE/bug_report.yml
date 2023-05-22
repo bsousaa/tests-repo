@@ -139,7 +139,7 @@ body:
   - type: textarea
     id: additional
     attributes:
-      label: Additional Info
-      description: Additional info you want to provide such as logs, system info, environment, etc.
+      label: Diagnose Check
+      description:  Output of `/Applications/Docker.app/Contents/MacOS/com.docker.diagnose check`
     validations:
       required: false
