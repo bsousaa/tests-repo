@@ -2,10 +2,10 @@ blank_issues_enabled: false
 contact_links:
   - name: "Feature Request"
     about: "Check our Public Roadmap to request new features on Docker Desktop."
-    url: "https://github.com/docker/roadmap"
+    url: "https://github.com/docker/roadmap/issues"
   - name: "Security and Vulnerabilities"
     about: "Please report any security issues or vulnerabilities responsibly to the Docker security team. Please do not use the public issue tracker."
-    url: "https://github.com/moby/moby/security/policy"
-  - name: "General Support"
+    url: "mailto:security@docker.com"
+  - name: "Docker Support"
     about: "Get the help you need to build, share, and run your Docker applications"
     url: "https://www.docker.com/support/"
